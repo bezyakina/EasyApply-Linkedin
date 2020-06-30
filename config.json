@@ -1,0 +1,9 @@
+{
+    "email" : "your_email",
+    "password" : "your_password",
+    "keywords" : "your_keywords",
+    "location" : "your_location",
+    "search_pattern_include": "(your|include|pattern)",
+    "search_pattern_exclude": "(your|exclude|pattern)",
+    "driver_path" : "your_path_to_webdriver"
+}
